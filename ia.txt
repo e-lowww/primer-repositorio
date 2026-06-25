@@ -5,5 +5,5 @@ Es la simulación de procesos de inteligencia humana por parte de máquinas.
 Escribiendo código repetitivo, buscando errores y explicando funciones complejas.
 
 ¿Cuáles son sus ventajas y limitaciones?
-Ventajas: Ahorra tiempo y automatiza tareas.
-Limitaciones: Puede cometer errores (alucinaciones) y no tiene razonamiento humano real.
+Ventajas: Velocidad de procesamiento inhumana y capacidad para conectar patrones complejos indetectables para el ojo humano.
+Limitaciones: Carece por completo de intuición real, empatía y contexto moral; si se entrena con datos sesgados o basura, generará resultados basura de forma muy convincente.
