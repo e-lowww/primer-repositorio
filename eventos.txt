@@ -5,6 +5,6 @@ Es una acción o suceso detectado por el programa (como un clic).
 En interfaces de usuario, aplicaciones web y videojuegos.
 
 Tres ejemplos de eventos en aplicaciones o sitios web:
-1. Hacer clic en el botón de "Me gusta".
-2. Desplazar la página hacia abajo (scroll).
-3. Presionar la tecla Enter en un formulario.
+1. Sacudir el teléfono físico para deshacer el último texto escrito.
+2. Pasar el cursor sobre la foto de un producto en Amazon y que se active una lupa de zoom automáticamente.
+3. El sensor GPS detecta que cruzaste la frontera de una ciudad y te envía una notificación de bienvenida.
