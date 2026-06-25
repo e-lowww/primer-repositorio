@@ -5,4 +5,4 @@ Es una estructura de control que repite un bloque de código.
 Para ejecutar una misma acción varias veces sin tener que escribir el código repetidamente.
 
 Actividad repetitiva de la vida cotidiana:
-Caminar 10 pasos (repito la acción de dar un paso hasta llegar al número 10).
+Escanear los productos en la caja del supermercado. El cajero repite la acción de "pasar el código de barras por el lector" MIENTRAS queden artículos en el carrito de compras.
