@@ -5,4 +5,4 @@ Es una estructura lógica para tomar decisiones en el código.
 Para ejecutar ciertas instrucciones solo si se cumple una condición específica.
 
 Situación cotidiana basada en una condición:
-Si la alarma suena a las 6:00 AM, me levanto de la cama; si no suena, me quedo durmiendo.
+SI el sensor del teléfono detecta que la luz ambiental es menor a 10 lux, ENTONCES activa automáticamente el modo oscuro; SI NO, mantiene la pantalla en modo diurno.
