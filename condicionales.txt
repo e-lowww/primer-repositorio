@@ -1,0 +1,8 @@
+¿Qué es un condicional?
+Es una estructura lógica para tomar decisiones en el código.
+
+¿Para qué sirve?
+Para ejecutar ciertas instrucciones solo si se cumple una condición específica.
+
+Situación cotidiana basada en una condición:
+Si la alarma suena a las 6:00 AM, me levanto de la cama; si no suena, me quedo durmiendo.
