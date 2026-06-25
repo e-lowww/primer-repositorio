@@ -5,6 +5,6 @@ Es un espacio en memoria para guardar datos.
 Para almacenar, organizar y cambiar información en un programa.
 
 Tres ejemplos de información que podría almacenar una variable:
-1. El nombre de un usuario (texto).
-2. El precio de un producto (número).
-3. Si el usuario inició sesión o no (verdadero/falso).
+1. "nivel_miedo_enemigo" (Para cambiar el comportamiento de un monstruo en un videojuego si el jugador se acerca).
+2. "playlist_actual" (Para recordar qué lista de canciones está reproduciendo un usuario en Spotify).
+3. "coordenadas_marte" (Para guardar la telemetría de ubicación exacta de un rover espacial).
