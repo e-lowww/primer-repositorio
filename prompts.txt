@@ -5,6 +5,6 @@ Es la instrucción, texto o pregunta que se le da a una Inteligencia Artificial 
 Porque la calidad del prompt determina la precisión, utilidad y claridad de la respuesta de la IA. Un mal prompt da respuestas vagas o incorrectas.
 
 Tres recomendaciones para crear mejores prompts:
-1. Ser claro, específico y directo con lo que se necesita.
-2. Darle un rol o contexto a la IA (ejemplo: "Actúa como un experto en programación").
-3. Especificar el formato deseado para la respuesta (ejemplo: "Responde en una lista con viñetas").
+1. Inyectar restricciones creativas: En lugar de "escribe una historia", pedir "escribe una historia en 50 palabras donde esté prohibido usar la letra 'e'".
+2. Dar un contra-ejemplo: Explicar explícitamente qué cosas quieres evitar a toda costa en la respuesta.
+3. Cadena de pensamiento: Pedirle a la IA que explique su razonamiento paso a paso antes de dar el veredicto final.
